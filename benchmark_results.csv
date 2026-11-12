@@ -1,0 +1,11 @@
+type,V,E,heap_ms,array_ms,results_match
+sparse,500,1997,0.783,0.318,true
+sparse,1000,4000,1.302,2.716,true
+sparse,2000,7998,1.880,4.579,true
+sparse,5000,19997,5.780,20.603,true
+sparse,10000,39995,14.283,80.931,true
+sparse,20000,79994,16.138,544.766,true
+dense,250,15544,0.874,0.212,true
+dense,500,62367,4.969,1.383,true
+dense,1000,249743,7.124,5.253,true
+dense,1500,562133,9.352,8.884,true
